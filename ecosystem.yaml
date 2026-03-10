@@ -1,0 +1,8 @@
+schema_version: '1.0'
+repo: archive-past-works
+organ: II
+display_name: Archival infrastructure for completed artworks with Dublin Core-inspired
+  metadata, chronological index, and provenance tracking
+delivery:
+- platform: web_app
+  status: not_started
